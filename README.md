@@ -1,2 +1,2 @@
 # Twitter-Networks
-Social and semantic networks on Twitter relating to Nike, Adidas &amp; Lululemon.
+Social and semantic network analysis via Twitter data relating to Nike, Adidas & Lululemon.
